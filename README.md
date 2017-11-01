@@ -1,2 +1,3 @@
 # robosys2017_09
-test repository for robosys2017
+This repository is used lecture for robosys2017.
+
